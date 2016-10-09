@@ -110,4 +110,8 @@
     <string name="show_network_traffic_all">Both</string>
     <string name="network_traffic_font_size_title">Single net font size</string>
 
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
+    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+
 </resources>

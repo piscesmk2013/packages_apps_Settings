@@ -34,5 +34,7 @@
     <string name="show_network_traffic_down">下载</string>
     <string name="show_network_traffic_all">两者</string>
     <string name="network_traffic_font_size_title">单网络字体大小</string>
+    <string name="unlock_quick_unlock_control_title">快速解锁</string>
+    <string name="unlock_quick_unlock_control_summary">输入正确的 PIN/密码后自动解锁</string>
 
 </resources>
