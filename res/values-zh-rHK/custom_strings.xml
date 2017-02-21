@@ -79,4 +79,6 @@
     <string name="optimized_charge_summary">將充電限制在75%-80%以延長電池壽命</string>
     <string name="game_space_title">遊戲空間</string>
     <string name="game_space_summary">提升您的遊戲體驗</string>
+    <string name="pocket_judge_title">口袋檢測</string>
+    <string name="pocket_judge_summary">當設備在口袋中時屏蔽屏幕和按鍵操作</string>
 </resources>
