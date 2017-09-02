@@ -111,4 +111,8 @@
     <string name="wakelock_blocker_summary">屏蔽系统唤醒锁以节省电池</string>
     <string name="wakelock_blocker_warning">拦截唤醒锁可能导致系统不稳定、崩溃或甚至数据丢失</string>
     <string name="wakelock_blocker_display_text">要查看和屏蔽唤醒锁，请打开唤醒锁拦截器</string>
+    <string name="alarm_blocker_title">警报拦截器</string>
+    <string name="alarm_blocker_summary">屏幕关闭时阻止闹钟以节省电池</string>
+    <string name="alarm_blocker_warning">拦截警报可能导致系统不稳定、崩溃或数据丢失</string>
+    <string name="alarm_blocker_display_text">要查看和屏蔽闹钟，请打开警报拦截器</string>
 </resources>

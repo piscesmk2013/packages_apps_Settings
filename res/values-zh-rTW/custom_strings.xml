@@ -111,4 +111,8 @@
     <string name="wakelock_blocker_summary">阻止系統喚醒以節省電量</string>
     <string name="wakelock_blocker_warning">喚醒阻止鎖功能可能會導致系統不穩定、出錯或資料遺失</string>
     <string name="wakelock_blocker_display_text">要查看喚醒阻止鎖，請先打開喚醒阻止鎖功能。</string>
+    <string name="alarm_blocker_title">警報阻止工具</string>
+    <string name="alarm_blocker_summary">在螢幕關閉時使用警報阻止工具節省電量</string>
+    <string name="alarm_blocker_warning">警報阻止工具可能會導致系統不穩定、出錯或資料遺失</string>
+    <string name="alarm_blocker_display_text">要查看警報阻止工具，請先打開警報阻止功能。</string>
 </resources>

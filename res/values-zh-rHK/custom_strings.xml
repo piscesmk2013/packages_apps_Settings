@@ -104,4 +104,8 @@
     <string name="wakelock_blocker_summary">屏蔽系統喚醒鎖以節省電池</string>
     <string name="wakelock_blocker_warning">攔截喚醒鎖可能導致系統不穩定、崩潰或甚至數據丟失</string>
     <string name="wakelock_blocker_display_text">要查看和屏蔽喚醒鎖，請打開喚醒鎖攔截器</string>
+    <string name="alarm_blocker_title">警報攔截器</string>
+    <string name="alarm_blocker_summary">屏幕關閉時阻止鬧鐘以節省電池</string>
+    <string name="alarm_blocker_warning">攔截警報可能導致系統不穩定、崩潰或數據丟失</string>
+    <string name="alarm_blocker_display_text">要查看和屏蔽鬧鐘，請打開警報攔截器</string>
 </resources>
