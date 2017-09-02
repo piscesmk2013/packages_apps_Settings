@@ -100,4 +100,8 @@
     <string name="profile_choose_app">選擇應用程序</string>
     <string name="dialog_delete_title">刪除</string>
     <string name="dialog_delete_message">刪除所選中的項目？</string>
+    <string name="wakelock_blocker_title">喚醒鎖攔截器</string>
+    <string name="wakelock_blocker_summary">屏蔽系統喚醒鎖以節省電池</string>
+    <string name="wakelock_blocker_warning">攔截喚醒鎖可能導致系統不穩定、崩潰或甚至數據丟失</string>
+    <string name="wakelock_blocker_display_text">要查看和屏蔽喚醒鎖，請打開喚醒鎖攔截器</string>
 </resources>
