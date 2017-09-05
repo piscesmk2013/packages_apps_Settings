@@ -25,4 +25,5 @@
     <string name="max_refresh_rate_title">最高刷新率</string>
     <string name="ambient_display_screen_off_udfps_title">长按指纹传感器以解锁设备</string>
     <string name="ambient_display_screen_off_udfps_summary">要唤醒您的屏幕并解锁，长按您的屏下指纹传感器。</string>
+    <string name="incall_feeedback_vibrate_title">振动提示通话状态</string>
 </resources>
