@@ -130,4 +130,7 @@
     <string name="optimized_charge_title">Optimized charging</string>
     <string name="optimized_charge_summary">Limit charging to 75%-80% to extend battery life</string>
 
+    <!-- In-call feedback -->
+    <string name="incall_feeedback_vibrate_title">Vibrate to indicate call status</string>
+
 </resources>
