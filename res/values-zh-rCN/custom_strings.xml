@@ -51,5 +51,6 @@
     <string name="increasing_ring_volume_option_title">铃声音量渐强</string>
     <string name="increasing_ring_min_volume_title">初始音量</string>
     <string name="increasing_ring_ramp_up_time_title">渐强时间</string>
+    <string name="incall_feeedback_vibrate_title">振动提示通话状态</string>
 
 </resources>
