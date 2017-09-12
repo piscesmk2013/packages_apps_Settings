@@ -100,4 +100,10 @@
     <string name="reticker_landscape_only_summary">仅在横屏模式下启用 reTicker</string>
     <string name="global_actions_advanced_reboot_title">高级重启</string>
     <string name="global_actions_advanced_reboot_summary">在电源菜单中显示恢复和引导加载程序选项</string>
+    <string name="network_traffic_title">网络速率指示器</string>
+    <string name="network_traffic_summary">在状态栏中启用或禁用网络速率指示器</string>
+    <string name="network_traffic_state_title">启用"网络速率指示器"</string>
+    <string name="network_options_title">选项</string>
+    <string name="network_traffic_autohide_title">不活动时隐藏网络速率指示器</string>
+    <string name="network_traffic_autohide_summary">当网络速率低于 1 KB/s 时隐藏</string>
 </resources>
