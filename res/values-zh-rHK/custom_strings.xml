@@ -87,4 +87,5 @@
     <string name="global_actions_advanced_reboot_summary">在電源菜單中顯示恢復和引導加載程序選項</string>
     <string name="battery_saver_refresh_rate_title">降低刷新率</string>
     <string name="battery_saver_refresh_rate_summary">當省電模式開啟時，使用 60 Hz 作為最大刷新率以節省電量</string>
+    <string name="volume_link_notification_title">鈴聲與通知音量掛勾</string>
 </resources>
