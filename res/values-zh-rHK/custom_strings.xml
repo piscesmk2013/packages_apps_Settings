@@ -97,4 +97,6 @@
     <string name="double_tap_sleep_lockscreen_summary">輕觸兩下鎖定畫面上的任意位置以鎖定</string>
     <string name="status_bar_brightness_control_title">狀態欄亮度調節</string>
     <string name="status_bar_brightness_control_summary">在狀態欄上左右滑動以調整亮度</string>
+    <string name="tethering_allow_vpn_upstreams_title">允許客戶端使用 VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允許熱點客戶端使用此裝置的 VPN 連線進行上載連線</string>
 </resources>

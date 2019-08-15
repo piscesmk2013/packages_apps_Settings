@@ -120,4 +120,6 @@
     <string name="status_bar_brightness_control_summary">在状态栏上左右滑动以调整亮度</string>
     <string name="auto_brightness_one_shot_title">单次自动亮度</string>
     <string name="auto_brightness_one_shot_summary">仅在屏幕打开时进行一次亮度调整</string>
+    <string name="tethering_allow_vpn_upstreams_title">允许客户端使用 VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允许热点客户端使用此设备的 VPN 连接到上游连接</string>
 </resources>

@@ -108,4 +108,6 @@
     <string name="double_tap_sleep_lockscreen_summary">輕觸兩下鎖定畫面上的任意位置以鎖定</string>
     <string name="auto_brightness_one_shot_title">靜態亮度調整</string>
     <string name="auto_brightness_one_shot_summary">只在螢幕開啟後自動調整一次亮度</string>
+    <string name="tethering_allow_vpn_upstreams_title">允許客戶端使用 VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允許熱點客戶端使用此裝置的 VPN 連線進行上游連線</string>
 </resources>
