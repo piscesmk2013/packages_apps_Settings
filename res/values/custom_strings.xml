@@ -136,4 +136,8 @@
     <string name="tap_ambient_wake_gestures_title">Show Ambient</string>
     <string name="tap_ambient_wake_gestures_summary">Wake up the ambient display when single tap</string>
 
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Advanced restart</string>
+    <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader in power menu</string>
+
 </resources>
