@@ -100,4 +100,6 @@
     <string name="battery_saver_refresh_rate_summary">在省電模式開啟時使用最多 60 Hz 螢幕更新率以減少電量消耗</string>
     <string name="volume_link_notification_title">連結鈴聲與通知音量</string>
     <string name="app_volume">應用程式音量</string>
+    <string name="three_finger_gesture">滑動以擷取螢幕畫面</string>
+    <string name="three_finger_gesture_summary">同時滑動三支手指以擷取螢幕畫面</string>
 </resources>

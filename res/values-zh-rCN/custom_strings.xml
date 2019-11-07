@@ -110,4 +110,6 @@
     <string name="battery_saver_refresh_rate_summary">省电模式开启时，限制屏幕刷新率为最高 60 Hz 以节省电量</string>
     <string name="volume_link_notification_title">链接铃声和通知的音量</string>
     <string name="app_volume">应用音量</string>
+    <string name="three_finger_gesture">滑动截图</string>
+    <string name="three_finger_gesture_summary">三指下滑截图</string>
 </resources>
