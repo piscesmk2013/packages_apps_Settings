@@ -25,4 +25,6 @@
     <string name="battery_saver_refresh_rate_summary">當省電模式開啟時，使用 60 Hz 作為最大刷新率以節省電量</string>
     <string name="volume_link_notification_title">鈴聲與通知音量掛勾</string>
     <string name="app_volume">應用音量</string>
+    <string name="three_finger_gesture">滑動截圖</string>
+    <string name="three_finger_gesture_summary">三指下滑截圖</string>
 </resources>
