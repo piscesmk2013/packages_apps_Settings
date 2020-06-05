@@ -83,5 +83,9 @@
     <string name="optimized_charge_summary">將充電限制在75%-80%以延長電池壽命</string>
     <string name="battery_saver_refresh_rate_title">降低刷新率</string>
     <string name="battery_saver_refresh_rate_summary">當省電模式開啟時，使用 60 Hz 作為最大刷新率以節省電量</string>
+    <string name="vibration_pattern_title">鈴聲振動模式</string>
+    <string name="pattern_custom">自定義</string>
+    <string name="custom_vibration_pattern_title">自定義模式</string>
+    <string name="custom_vibration_pattern_summary">設置自定義振動模式</string>
 
 </resources>
