@@ -246,4 +246,8 @@
     <string name="app_volume">应用独立音量</string>
     <string name="app_volume_title">每个应用的音量单独控制</string>
     <string name="app_volume_summary">允许为每个应用设置不同的音量级别</string>
+    <string name="vibration_pattern_title">铃声振动模式</string>
+    <string name="pattern_custom">自定义</string>
+    <string name="custom_vibration_pattern_title">自定义模式</string>
+    <string name="custom_vibration_pattern_summary">设置自定义振动模式</string>
 </resources>
