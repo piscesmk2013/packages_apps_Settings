@@ -97,6 +97,13 @@
     <PreferenceCategory
         android:title="@string/category_name_display_controls">
 
+        <Preference
+            android:key="icon_manager"
+            android:title="@string/icon_manager_title"
+            android:summary="@string/icon_manager_summary">
+            <intent android:action="com.android.settings.action.STATUS_BAR_TUNER" />
+        </Preference>
+
         <!--
             Standard auto-rotation preference that will be shown when device state based
             auto-rotation settings are NOT available.

@@ -33,4 +33,8 @@
     <!-- Warning message for the sd card setup -->
     <string name="storage_warning_internal">Warning: This option may not work properly or lead to data loss and is therefore not recommended!</string>
 
+    <!-- Status bar Icon Manager -->
+    <string name="icon_manager_title">Icon manager</string>
+    <string name="icon_manager_summary">Control visibility of status bar icons</string>
+
 </resources>
