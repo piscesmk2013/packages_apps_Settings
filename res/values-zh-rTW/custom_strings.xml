@@ -91,4 +91,11 @@
     <string name="game_space_summary">提升您的遊戲體驗</string>
     <string name="pocket_judge_title">口袋防誤觸偵測</string>
     <string name="pocket_judge_summary">當裝置位於口袋中時防止螢幕和按鍵輸入</string>
+    <string name="keywords_pulse_ambient_light_display">通知，邊緣，光，顏色</string>
+    <string name="pulse_ambient_light_text">當您手機處於息屏狀態中收到通知時，屏幕邊緣將亮起光效。</string>
+    <string name="pulse_ambient_light_title">邊緣光效</string>
+    <string name="pulse_ambient_light_summary">在通收到通知時亮起屏幕側邊光效</string>
+    <string name="ambient_notification_light_accent_title">系統強調色</string>
+    <string name="ambient_notification_light_color_automatic_title">通知色</string>
+    <string name="pulse_ambient_light_color">當收到通知時，使用</string>
 </resources>
