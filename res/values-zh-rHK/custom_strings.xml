@@ -92,4 +92,12 @@
     <string name="laboratory_strict_standby_policy_summary">這將對「電池用量」受限的應用程式啟用劃卡即停，並對其施加更加嚴格的應用程式待機限制。所有限制將在電源連接時也保持執行。</string>
     <string name="laboratory_force_background_freezer_title">墓碑後台</string>
     <string name="laboratory_force_background_freezer_summary">這將對「電池用量」受限的應用程式啟用墓碑後台。當應用程式被移至後台時將會被凍結，移到前台時重新解凍。這能夠在一定程度上減少電量消耗，但可能造成應用程式崩潰與後台應用程式未回應。</string>
+    <string name="sensor_block_title">阻止某些應用訪問傳感器</string>
+    <string name="sensor_block_summary">阻止某些應用訪問特定的傳感器以節省電池電量。</string>
+    <string name="sensor_block_app_picker_title">屏蔽這些應用的傳感器</string>
+    <string name="add_sensor_block_package_title">添加將被屏蔽傳感器的應用</string>
+    <string name="add_sensor_block_package_summary">這些應用程序將阻止重大運動，加速計，線性加速度傳感器</string>
+    <string name="profile_choose_app">選擇應用程序</string>
+    <string name="dialog_delete_title">刪除</string>
+    <string name="dialog_delete_message">刪除所選中的項目？</string>
 </resources>

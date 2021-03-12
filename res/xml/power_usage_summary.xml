@@ -110,11 +110,10 @@
         settings:controller="com.android.settings.aosp.ForceBackgroundFreezePreferenceController"
         android:defaultValue="false"/>
 
-    <com.android.settings.custom.preference.SystemSettingSwitchPreference
-        android:key="sensor_block"
+    <Preference
         android:title="@string/sensor_block_title"
         android:summary="@string/sensor_block_summary"
-        android:defaultValue="false" />
+        android:fragment="com.android.settings.applications.sensors.SensorBlock"/>
 
     <com.android.settingslib.widget.FooterPreference
         android:key="power_usage_footer"
