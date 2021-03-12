@@ -150,4 +150,8 @@
     <!-- Force background freezer -->
     <string name="laboratory_force_background_freezer_title">Background tasks freezer</string>
     <string name="laboratory_force_background_freezer_summary">Freeze tasks with restricted battery usage when moving them to background and unfreeze them when moving to foreground. This could save battery slightly but may lead to crashes and background ANR.</string>
+
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">Sensor block per-package</string>
+    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
 </resources>
