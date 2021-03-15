@@ -81,5 +81,7 @@
     <string name="designed_battery_capacity">电池设计容量</string>
     <string name="optimized_charge_title">优化充电</string>
     <string name="optimized_charge_summary">将充电限制在75%-80%以延长电池寿命</string>
+    <string name="battery_saver_refresh_rate_title">降低刷新率</string>
+    <string name="battery_saver_refresh_rate_summary">省电模式开启时，限制屏幕刷新率为最高 60 Hz 以节省电量</string>
 
 </resources>
