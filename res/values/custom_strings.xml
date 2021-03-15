@@ -124,4 +124,8 @@
     <string name="optimized_charge_title">Optimized charging</string>
     <string name="optimized_charge_summary">Limit charging to 75%-80% to extend battery life</string>
 
+    <!-- Battery Saver -->
+    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
+    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+
 </resources>
