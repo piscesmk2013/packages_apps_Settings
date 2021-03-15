@@ -93,4 +93,6 @@
     <string name="pulse_ambient_light_color">當收到通知時，使用</string>
     <string name="reticker_landscape_only_title">僅在橫向模式</string>
     <string name="reticker_landscape_only_summary">僅在設備處於橫向模式時啟用 reTicker</string>
+    <string name="battery_saver_refresh_rate_title">降低螢幕更新率</string>
+    <string name="battery_saver_refresh_rate_summary">在省電模式開啟時使用最多 60 Hz 螢幕更新率以減少電量消耗</string>
 </resources>

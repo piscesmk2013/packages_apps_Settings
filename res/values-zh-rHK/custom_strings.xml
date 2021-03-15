@@ -82,4 +82,6 @@
     <string name="pulse_ambient_light_color">當收到通知時，使用</string>
     <string name="reticker_landscape_only_title">僅橫屏</string>
     <string name="reticker_landscape_only_summary">僅在橫屏模式下啟用 reTicker</string>
+    <string name="battery_saver_refresh_rate_title">降低刷新率</string>
+    <string name="battery_saver_refresh_rate_summary">當省電模式開啟時，使用 60 Hz 作為最大刷新率以節省電量</string>
 </resources>
