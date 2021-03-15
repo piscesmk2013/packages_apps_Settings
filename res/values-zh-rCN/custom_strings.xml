@@ -49,4 +49,6 @@
     <string name="network_options_title">选项</string>
     <string name="network_traffic_autohide_title">不活动时隐藏网络速率指示器</string>
     <string name="network_traffic_autohide_summary">当网络速率低于 1 KB/s 时隐藏</string>
+    <string name="battery_saver_refresh_rate_title">降低刷新率</string>
+    <string name="battery_saver_refresh_rate_summary">省电模式开启时，限制屏幕刷新率为最高 60 Hz 以节省电量</string>
 </resources>
