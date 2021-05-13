@@ -36,5 +36,7 @@
     <string name="network_traffic_font_size_title">单网络字体大小</string>
     <string name="unlock_quick_unlock_control_title">快速解锁</string>
     <string name="unlock_quick_unlock_control_summary">输入正确的 PIN/密码后自动解锁</string>
+    <string name="auto_brightness_one_shot_title">单次自动调节亮度</string>
+    <string name="auto_brightness_one_shot_summary">仅在点亮屏幕的那一刻调节一次亮度</string>
 
 </resources>
