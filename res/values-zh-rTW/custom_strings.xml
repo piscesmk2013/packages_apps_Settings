@@ -106,4 +106,6 @@
     <string name="double_tap_sleep_gesture_summary">輕觸兩下狀態列的任何位置以鎖定</string>
     <string name="double_tap_sleep_lockscreen_title">輕觸兩下以鎖定</string>
     <string name="double_tap_sleep_lockscreen_summary">輕觸兩下鎖定畫面上的任意位置以鎖定</string>
+    <string name="auto_brightness_one_shot_title">靜態亮度調整</string>
+    <string name="auto_brightness_one_shot_summary">只在螢幕開啟後自動調整一次亮度</string>
 </resources>
