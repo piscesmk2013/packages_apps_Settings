@@ -105,5 +105,11 @@
     <string name="status_bar_lyric_title">狀態欄歌詞</string>
     <string name="status_bar_lyric_summary">在狀態欄上顯示歌詞(需要應用支持)</string>
     <string name="status_bar_show_lyric_title">啟用狀態欄歌詞</string>
+    <string name="disabled">已停用</string>
+    <string name="always_on_display_schedule_title">環境顯示定時</string>
+    <string name="always_on_display_schedule_sunset">日落</string>
+    <string name="always_on_display_schedule_sunrise">日出</string>
+    <string name="always_on_display_schedule_mixed_sunset">從日落到指定時間段開啟</string>
+    <string name="always_on_display_schedule_mixed_sunrise">從指定時間段到日出開啟</string>
 
 </resources>
