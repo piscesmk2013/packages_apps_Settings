@@ -244,4 +244,9 @@
     <string name="system_black_theme_summary">強制使用純黑背景色</string>
     <string name="laboratory_strict_standby_policy_title">嚴格的應用程式待機策略</string>
     <string name="laboratory_strict_standby_policy_summary">這將對「電池用量」受限的應用程式啟用劃卡即停，並對其施加更加嚴格的應用程式待機限制。所有限制將在電源連接時也保持執行。</string>
+    <string name="always_on_display_schedule_title">隨顯螢幕排程</string>
+    <string name="always_on_display_schedule_sunset">日落後</string>
+    <string name="always_on_display_schedule_sunrise">日出時</string>
+    <string name="always_on_display_schedule_mixed_sunset">從日落後至指定時間啟用</string>
+    <string name="always_on_display_schedule_mixed_sunrise">從指定時間至日出時啟用</string>
 </resources>

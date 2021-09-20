@@ -252,4 +252,10 @@
     <string name="udfps_icon_picker_summary">选择你喜欢的指纹图标</string>
     <string name="udfps_recog_animation_effect_title">UDFPS 动画效果</string>
     <string name="udfps_recog_animation_effect_summary">选择你喜欢的指纹解锁动画</string>
+    <string name="disabled">已停用</string>
+    <string name="always_on_display_schedule_title">环境显示定时</string>
+    <string name="always_on_display_schedule_sunset">日落</string>
+    <string name="always_on_display_schedule_sunrise">日出</string>
+    <string name="always_on_display_schedule_mixed_sunset">从日落到指定时间段开启</string>
+    <string name="always_on_display_schedule_mixed_sunrise">从指定时间段到日出开启</string>
 </resources>
