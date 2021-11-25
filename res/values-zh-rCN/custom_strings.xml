@@ -136,4 +136,7 @@
     <string name="status_bar_clock_position_right">居右</string>
     <string name="status_bar_clock_show_seconds_title">时钟显秒</string>
     <string name="status_bar_clock_show_seconds_desc">状态栏时钟显示时，分，秒</string>
+    <string name="other_controls_title">导航栏</string>
+    <string name="fullscreen_gestures_title">全屏手势</string>
+    <string name="fullscreen_gestures_summary">隐藏导航栏白条和底部填充</string>
 </resources>

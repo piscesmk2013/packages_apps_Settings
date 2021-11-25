@@ -226,4 +226,9 @@
     <string name="status_bar_clock_show_seconds_title">Clock show seconds</string>
     <string name="status_bar_clock_show_seconds_desc">Show hours, minutes, and seconds</string>
 
+    <!-- Fullscreen gestures -->
+    <string name="other_controls_title">Navigation bar</string>
+    <string name="fullscreen_gestures_title">Fullscreen gestures</string>
+    <string name="fullscreen_gestures_summary">Hide navbar pill and keyboard space</string>
+
 </resources>

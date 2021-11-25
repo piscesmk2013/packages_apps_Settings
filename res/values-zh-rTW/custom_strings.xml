@@ -124,4 +124,7 @@
     <string name="status_bar_clock_position_right">居右</string>
     <string name="status_bar_clock_show_seconds_title">時鐘顯秒</string>
     <string name="status_bar_clock_show_seconds_desc">狀態欄時鐘顯示時，分，秒</string>
+    <string name="other_controls_title">導航欄</string>
+    <string name="fullscreen_gestures_title">全屏手勢</string>
+    <string name="fullscreen_gestures_summary">隱藏導航欄白條和底部填充</string>
 </resources>
