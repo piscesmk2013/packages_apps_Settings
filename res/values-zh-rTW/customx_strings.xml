@@ -249,4 +249,6 @@
     <string name="always_on_display_schedule_sunrise">日出時</string>
     <string name="always_on_display_schedule_mixed_sunset">從日落後至指定時間啟用</string>
     <string name="always_on_display_schedule_mixed_sunrise">從指定時間至日出時啟用</string>
+    <string name="doze_on_charge_title">充電時啟用</string>
+    <string name="doze_on_charge_summary">充電時顯示隨顯螢幕</string>
 </resources>
