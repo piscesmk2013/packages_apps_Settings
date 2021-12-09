@@ -77,4 +77,6 @@
     <string name="designed_battery_capacity">電池設計容量</string>
     <string name="optimized_charge_title">優化充電</string>
     <string name="optimized_charge_summary">將充電限制在75%-80%以延長電池壽命</string>
+    <string name="game_space_title">遊戲空間</string>
+    <string name="game_space_summary">提升您的遊戲體驗</string>
 </resources>

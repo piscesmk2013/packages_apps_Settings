@@ -87,4 +87,6 @@
     <string name="fingerprint_wake_unlock_title">使用指紋解除鎖定</string>
     <string name="fingerprint_wake_unlock_touch">螢幕關閉時聆聽活動</string>
     <string name="fingerprint_wake_unlock_press">螢幕開啟時僅聆聽一次活動</string>
+    <string name="game_space_title">遊戲空間</string>
+    <string name="game_space_summary">提升您的遊戲體驗</string>
 </resources>
