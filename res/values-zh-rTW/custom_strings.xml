@@ -84,4 +84,6 @@
     <string name="high_touch_polling_rate_summary">提高觸控輪詢率</string>
     <string name="screen_off_fod_title">螢幕關閉時使用螢幕下指紋辨識</string>
     <string name="screen_off_fod_summary">螢幕關閉時仍然使用螢幕下指紋辨識</string>
+    <string name="game_space_title">遊戲空間</string>
+    <string name="game_space_summary">提升您的遊戲體驗</string>
 </resources>
