@@ -99,4 +99,6 @@
     <string name="pattern_custom">自訂</string>
     <string name="custom_vibration_pattern_title">自訂模式</string>
     <string name="custom_vibration_pattern_summary">設定一個自訂震動模式</string>
+    <string name="system_black_theme_title">使用純黑主題</string>
+    <string name="system_black_theme_summary">強制使用純黑背景色</string>
 </resources>
