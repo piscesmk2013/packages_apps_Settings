@@ -240,4 +240,6 @@
     <string name="ambient_notification_light_accent_title">系統強調色</string>
     <string name="ambient_notification_light_color_automatic_title">通知色</string>
     <string name="pulse_ambient_light_color">當收到通知時，使用</string>
+    <string name="system_black_theme_title">使用純黑主題</string>
+    <string name="system_black_theme_summary">強制使用純黑背景色</string>
 </resources>
