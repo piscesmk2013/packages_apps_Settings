@@ -86,4 +86,7 @@
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Link ring &amp; ringtone and notification volumes</string>
 
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volume</string>
+
 </resources>
