@@ -177,4 +177,12 @@
     <string name="three_finger_gesture">Swipe to screenshot</string>
     <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
 
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="double_tap_sleep_gesture_title">Tap statusbar to disable</string>
+    <string name="double_tap_sleep_gesture_summary">Double-tap the status bar to disable the device</string>
+
+    <!-- Double Tap to Sleep Lockscreen -->
+    <string name="double_tap_sleep_lockscreen_title">Tap lockscreen to disable</string>
+    <string name="double_tap_sleep_lockscreen_summary">Double-tap on lock screen to disable device</string>
+
 </resources>

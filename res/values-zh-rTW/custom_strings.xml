@@ -102,4 +102,8 @@
     <string name="app_volume">應用程式音量</string>
     <string name="three_finger_gesture">滑動以擷取螢幕畫面</string>
     <string name="three_finger_gesture_summary">同時滑動三支手指以擷取螢幕畫面</string>
+    <string name="double_tap_sleep_gesture_title">輕觸以鎖定</string>
+    <string name="double_tap_sleep_gesture_summary">輕觸兩下狀態列的任何位置以鎖定</string>
+    <string name="double_tap_sleep_lockscreen_title">輕觸兩下以鎖定</string>
+    <string name="double_tap_sleep_lockscreen_summary">輕觸兩下鎖定畫面上的任意位置以鎖定</string>
 </resources>

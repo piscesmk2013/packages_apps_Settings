@@ -112,4 +112,8 @@
     <string name="app_volume">应用音量</string>
     <string name="three_finger_gesture">滑动截图</string>
     <string name="three_finger_gesture_summary">三指下滑截图</string>
+    <string name="double_tap_sleep_gesture_title">双击状态栏以睡眠</string>
+    <string name="double_tap_sleep_gesture_summary">双击状态栏可使设备休眠</string>
+    <string name="double_tap_sleep_lockscreen_title">双击锁屏界面休眠</string>
+    <string name="double_tap_sleep_lockscreen_summary">在锁屏界面双击任意处使设备休眠</string>
 </resources>
