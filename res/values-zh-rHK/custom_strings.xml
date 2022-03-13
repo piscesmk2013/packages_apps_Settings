@@ -31,4 +31,8 @@
     <string name="laboratory_strict_standby_policy_summary">這將對「電池用量」受限的應用程式啟用劃卡即停，並對其施加更加嚴格的應用程式待機限制。所有限制將在電源連接時也保持執行。</string>
     <string name="laboratory_force_background_freezer_title">墓碑後台</string>
     <string name="laboratory_force_background_freezer_summary">這將對「電池用量」受限的應用程式啟用墓碑後台。當應用程式被移至後台時將會被凍結，移到前台時重新解凍。這能夠在一定程度上減少電量消耗，但可能造成應用程式崩潰與後台應用程式未回應。</string>
+    <string name="double_tap_sleep_gesture_title">輕觸以鎖定</string>
+    <string name="double_tap_sleep_gesture_summary">輕觸兩下狀態列的任何位置以鎖定</string>
+    <string name="double_tap_sleep_lockscreen_title">輕觸兩下以鎖定</string>
+    <string name="double_tap_sleep_lockscreen_summary">輕觸兩下鎖定畫面上的任意位置以鎖定</string>
 </resources>
