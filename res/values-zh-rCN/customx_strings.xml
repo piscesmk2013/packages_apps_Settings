@@ -260,4 +260,30 @@
     <string name="always_on_display_schedule_mixed_sunrise">从指定时间段到日出开启</string>
     <string name="doze_on_charge_title">充电时始终开启</string>
     <string name="doze_on_charge_summary">充电时显示环境显示</string>
+    <string name="sleep_mode_title">睡眠模式</string>
+    <string name="sleep_mode_summary_on">开启 / <xliff:g id="ID_1">%1$s</xliff:g></string>
+    <string name="sleep_mode_summary_off">关闭 / <xliff:g id="ID_1">%1$s</xliff:g></string>
+    <string name="sleep_mode_ringer_title">响铃模式</string>
+    <string name="sleep_mode_ringer_off_title">不要更改</string>
+    <string name="sleep_mode_ringer_vibrate_title">振动</string>
+    <string name="sleep_mode_ringer_dnd_title">勿扰模式</string>
+    <string name="sleep_mode_ringer_silent_title">静音</string>
+    <string name="sleep_mode_schedule_sunset">日落</string>
+    <string name="sleep_mode_schedule_sunrise">日出</string>
+    <string name="sleep_mode_schedule_mixed_sunset">从日落到指定时间段开启</string>
+    <string name="sleep_mode_schedule_mixed_sunrise">从指定时间段到日出开启</string>
+    <string name="sleep_mode_toggles_title">快捷开关</string>
+    <string name="sleep_mode_wifi_toggle_title">关闭 WiFi</string>
+    <string name="sleep_mode_wifi_toggle_summary">开启睡眠模式时禁用 WiFi</string>
+    <string name="sleep_mode_bluetooth_toggle_title">关闭蓝牙</string>
+    <string name="sleep_mode_bluetooth_toggle_summary">开启睡眠模式时禁用蓝牙</string>
+    <string name="sleep_mode_cellular_toggle_title">关闭移动数据</string>
+    <string name="sleep_mode_cellular_toggle_summary">开启睡眠模式时禁用移动数据</string>
+    <string name="sleep_mode_location_toggle_title">关闭位置信息</string>
+    <string name="sleep_mode_location_toggle_summary">开启睡眠模式时禁用位置信息</string>
+    <string name="sleep_mode_sensors_toggle_title">关闭传感器</string>
+    <string name="sleep_mode_sensors_toggle_summary">开启睡眠模式时禁用传感器</string>
+    <string name="sleep_mode_extra_dark_toggle_title">开启极暗</string>
+    <string name="sleep_mode_extra_dark_toggle_summary">开启睡眠模式时启用极暗</string>
+    <string name="sleep_mode_display_text">睡眠模式允许您禁用某些服务以帮助在您睡觉时节省电量并静音您的手机</string>
 </resources>
