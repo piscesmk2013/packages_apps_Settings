@@ -331,4 +331,10 @@
     <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
     <string name="reticker_landscape_only_title">Landscape only</string>
     <string name="reticker_landscape_only_summary">Only enable reTicker when device is in landscape mode</string>
+
+    <!-- Package details -->
+    <string name="package_details_group_title">Package details</string>
+    <string name="package_name">Package name</string>
+    <string name="package_version">Package version</string>
+    <string name="package_version_text" translatable="false"><xliff:g id="version_num">%1$s</xliff:g></string>
 </resources>
