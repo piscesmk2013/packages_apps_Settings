@@ -123,4 +123,8 @@
     <string name="fingerprint_wake_unlock_touch">Listens for events while the screen is off</string>
     <string name="fingerprint_wake_unlock_press">Only listens for events once the screen is on</string>
 
+    <!-- Battery health -->
+    <string name="current_battery_health">Current battery health</string>
+    <string name="current_battery_capacity">Current battery capacity</string>
+    <string name="designed_battery_capacity">Designed battery capacity</string>
 </resources>
