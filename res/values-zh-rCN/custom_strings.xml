@@ -79,4 +79,7 @@
     <string name="high_touch_polling_rate_summary">提高触摸屏采样率</string>
     <string name="screen_off_fod_title">息屏指纹</string>
     <string name="screen_off_fod_summary">当屏幕关闭时，保持屏下指纹启用</string>
+    <string name="current_battery_health">当前电池健康度</string>
+    <string name="current_battery_capacity">当前电池容量</string>
+    <string name="designed_battery_capacity">电池设计容量</string>
 </resources>
