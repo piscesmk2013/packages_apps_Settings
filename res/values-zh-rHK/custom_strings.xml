@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="current_battery_health">當前電池健康度</string>
+    <string name="current_battery_capacity">當前電池容量</string>
+    <string name="designed_battery_capacity">電池設計容量</string>
+</resources>
