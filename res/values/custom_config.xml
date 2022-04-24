@@ -20,4 +20,10 @@
     <!-- Three-fingers-swipe to screenshot -->
     <string name="swipe_to_screenshot_gesture_title">Swipe to screenshot</string>
     <string name="swipe_to_screenshot_gesture_summary">Swipe three fingers to take screenshot</string>
+
+    <!-- Battery health -->
+    <bool name="config_supportBatteryHealth">false</bool>
+    <string name="config_currentBatteryHealth">/sys/class/power_supply/bms/battery_health</string>
+    <string name="config_batteryCalculatedCapacity">/sys/class/power_supply/bms/charge_full</string>
+
 </resources>
