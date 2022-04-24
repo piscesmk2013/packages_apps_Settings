@@ -76,4 +76,8 @@
     <string name="face_unlock_method_title">允許在鎖定屏幕上進行人臉解鎖</string>
     <string name="face_unlock_method_default">螢幕開啟時</string>
     <string name="face_unlock_method_swipe">在鎖定螢幕滑動時</string>
+    <string name="current_battery_health">當前電池健康度</string>
+    <string name="current_battery_capacity">當前電池容量</string>
+    <string name="designed_battery_capacity">電池設計容量</string>
+
 </resources>

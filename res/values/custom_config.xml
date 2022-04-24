@@ -27,4 +27,9 @@
              (true for some tablets) -->
     <integer name="config_volumeRockerVsDisplayOrientation">1</integer>
 
+    <!-- Battery health -->
+    <bool name="config_supportBatteryHealth">false</bool>
+    <string name="config_currentBatteryHealth">/sys/class/power_supply/bms/battery_health</string>
+    <string name="config_batteryCalculatedCapacity">/sys/class/power_supply/bms/charge_full</string>
+
 </resources>
