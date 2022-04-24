@@ -243,4 +243,9 @@
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">媒体播放控制</string>
     <string name="volume_button_music_control_summary">屏幕关闭时，长按音量键将跳过音乐曲目</string>
+    <!-- Battery health -->
+    <string name="status_unavailable">不可用</string>
+    <string name="current_battery_health">当前电池健康度</string>
+    <string name="current_battery_capacity">当前电池容量</string>
+    <string name="designed_battery_capacity">电池设计容量</string>
 </resources>

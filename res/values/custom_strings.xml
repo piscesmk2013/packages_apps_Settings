@@ -301,4 +301,10 @@
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">Playback control</string>
     <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
+
+    <!-- Battery health -->
+    <string name="status_unavailable">Unavailable</string>
+    <string name="current_battery_health">Current battery health</string>
+    <string name="current_battery_capacity">Current battery capacity</string>
+    <string name="designed_battery_capacity">Designed battery capacity</string>
 </resources>
