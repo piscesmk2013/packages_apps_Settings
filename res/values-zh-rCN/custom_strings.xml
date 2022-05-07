@@ -101,5 +101,7 @@
     <string name="reticker_summary">用重新设计的tickers版本替换您的通知，\n苗条且不像标准通知那样具有侵入性</string>
     <string name="reticker_colored_title">使用应用程序色彩背景</string>
     <string name="reticker_colored_summary">使用通知应用主颜色替换 reTicker 背景颜色</string>
+    <string name="reticker_landscape_only_title">仅横屏</string>
+    <string name="reticker_landscape_only_summary">仅在横屏模式下启用 reTicker</string>
 
 </resources>
