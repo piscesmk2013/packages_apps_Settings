@@ -50,6 +50,12 @@
         settings:keywords="@string/keywords_battery_adaptive_preferences"
         settings:searchable="true" />
 
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="optimized_charge_enabled"
+        android:title="@string/optimized_charge_title"
+        android:summary="@string/optimized_charge_summary"
+        android:defaultValue="false"/>
+
     <!-- Battery light -->
     <SwitchPreference
         android:key="battery_light_enabled"

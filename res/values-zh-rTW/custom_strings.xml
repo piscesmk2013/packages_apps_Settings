@@ -78,6 +78,8 @@
     <string name="current_battery_health">當前電池健康度</string>
     <string name="current_battery_capacity">當前電池容量</string>
     <string name="designed_battery_capacity">電池設計容量</string>
+    <string name="optimized_charge_title">優化充電</string>
+    <string name="optimized_charge_summary">將充電限制在75%-80%以延長電池壽命</string>
     <string name="high_touch_polling_rate_title">高觸控輪詢率</string>
     <string name="high_touch_polling_rate_summary">提高觸控輪詢率</string>
     <string name="ambient_display_screen_off_udfps_title">在指紋感應器上長按以解鎖裝置</string>
