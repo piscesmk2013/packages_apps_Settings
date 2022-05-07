@@ -139,6 +139,14 @@
             android:order="10"
             android:defaultValue="false" />
 
+        <com.android.settings.custom.preference.SystemSettingSwitchPreference
+            android:dependency="reticker_status"
+            android:key="reticker_landscape_only"
+            android:title="@string/reticker_landscape_only_title"
+            android:summary="@string/reticker_landscape_only_summary"
+            android:order="11"
+            android:defaultValue="false" />
+
         <com.android.settingslib.RestrictedPreference
             android:key="zen_mode_notifications"
             android:order="17"

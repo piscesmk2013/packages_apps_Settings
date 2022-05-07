@@ -90,5 +90,7 @@
     <string name="status_bar_lyric_title">狀態欄歌詞</string>
     <string name="status_bar_lyric_summary">在狀態欄上顯示歌詞(需要應用支持)</string>
     <string name="status_bar_show_lyric_title">啟用狀態欄歌詞</string>
+    <string name="reticker_landscape_only_title">僅橫屏</string>
+    <string name="reticker_landscape_only_summary">僅在橫屏模式下啟用 reTicker</string>
 
 </resources>
