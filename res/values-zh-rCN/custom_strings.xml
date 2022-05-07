@@ -79,5 +79,7 @@
     <string name="current_battery_health">当前电池健康度</string>
     <string name="current_battery_capacity">当前电池容量</string>
     <string name="designed_battery_capacity">电池设计容量</string>
+    <string name="optimized_charge_title">优化充电</string>
+    <string name="optimized_charge_summary">将充电限制在75%-80%以延长电池寿命</string>
 
 </resources>

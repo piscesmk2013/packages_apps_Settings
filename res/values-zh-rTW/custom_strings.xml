@@ -79,5 +79,7 @@
     <string name="current_battery_health">當前電池健康度</string>
     <string name="current_battery_capacity">當前電池容量</string>
     <string name="designed_battery_capacity">電池設計容量</string>
+    <string name="optimized_charge_title">優化充電</string>
+    <string name="optimized_charge_summary">將充電限制在75%-80%以延長電池壽命</string>
 
 </resources>
