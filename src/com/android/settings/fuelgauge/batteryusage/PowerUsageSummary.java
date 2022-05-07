@@ -25,6 +25,9 @@ import android.database.ContentObserver;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
+import android.os.IBinder;
+import android.os.RemoteException;
+import android.os.ServiceManager;
 import android.provider.Settings.Global;
 import android.util.Log;
 import android.os.SystemProperties;
@@ -50,6 +53,8 @@ import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.search.SearchIndexable;
 import com.android.settingslib.widget.LayoutPreference;
 
+import ink.aosp.hardware.IOptimizedCharge;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -74,6 +79,10 @@ public class PowerUsageSummary extends PowerUsageBase implements
     private static final String KEY_CURRENT_BATTERY_HEALTH = "current_battery_health";
     private static final String KEY_CURRENT_BATTERY_CAPACITY = "current_battery_capacity";
     private static final String KEY_DESIGNED_BATTERY_CAPACITY = "designed_battery_capacity";
+    static final String KEY_OPTIMIZED_CHARGE = "optimized_charge_enabled";
+
+    static final IOptimizedCharge sOptimizedCharge =
+        IOptimizedCharge.Stub.asInterface(ServiceManager.getService("optimizedcharge"));
 
     @VisibleForTesting
     PowerUsageFeatureProvider mPowerFeatureProvider;
@@ -203,6 +212,9 @@ public class PowerUsageSummary extends PowerUsageBase implements
         }
         mBatteryTipPreferenceController.restoreInstanceState(icicle);
         updateBatteryTipFlag(icicle);
+
+        if (!isOptimizedChargeSupported())
+            removePreference(KEY_OPTIMIZED_CHARGE);
     }
 
     @Override
@@ -337,6 +349,14 @@ public class PowerUsageSummary extends PowerUsageBase implements
         restartBatteryTipLoader();
     }
 
+    static boolean isOptimizedChargeSupported() {
+        try {
+            return sOptimizedCharge.isSupported();
+        } catch (RemoteException e) {
+            return false;
+        }
+    }
+
     private String parseBatteryHealth(String file) {
         try {
             String batteryHealth = readLine(file);
@@ -430,6 +450,8 @@ public class PowerUsageSummary extends PowerUsageBase implements
                         keys.add(KEY_CURRENT_BATTERY_CAPACITY);
                         keys.add(KEY_DESIGNED_BATTERY_CAPACITY);
                     }
+                    if (!isOptimizedChargeSupported())
+                        keys.add(KEY_OPTIMIZED_CHARGE);
 
                     return keys;
                 }
