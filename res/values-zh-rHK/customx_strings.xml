@@ -199,4 +199,6 @@
     <string name="vibration_intensity_medium">中度</string>
     <string name="vibration_intensity_strong">強度</string>
     <string name="vibration_intensity_custom">自定義</string>
+    <string name="arcane_idle_manager_title">空閒管理器</string>
+    <string name="arcane_idle_manager_summary">設備空閒時停止所有非必要的後台進程</string>
 </resources>
