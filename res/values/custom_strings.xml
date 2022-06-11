@@ -148,4 +148,8 @@
     <string name="ambient_notification_light_accent_title">System accent color</string>
     <string name="ambient_notification_light_color_automatic_title">Notification color</string>
     <string name="pulse_ambient_light_color">When pulsing, use</string>
+
+    <!-- Strict standby -->
+    <string name="laboratory_strict_standby_policy_title">Strict standby policy</string>
+    <string name="laboratory_strict_standby_policy_summary">When dismissing from recents, this will force stop apps with restricted battery usage and impose stronger restrictions to them. Also, all app standby restrictions will be imposed even when device is charging.</string>
 </resources>
