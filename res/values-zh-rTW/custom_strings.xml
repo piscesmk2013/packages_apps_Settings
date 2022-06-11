@@ -27,4 +27,6 @@
     <string name="app_volume">應用程式音量</string>
     <string name="three_finger_gesture">滑動以擷取螢幕畫面</string>
     <string name="three_finger_gesture_summary">同時滑動三支手指以擷取螢幕畫面</string>
+    <string name="laboratory_strict_standby_policy_title">嚴格的應用程式待機策略</string>
+    <string name="laboratory_strict_standby_policy_summary">這將對「電池用量」受限的應用程式啟用劃卡即停，並對其施加更加嚴格的應用程式待機限制。所有限制將在電源連接時也保持執行。</string>
 </resources>
