@@ -242,4 +242,6 @@
     <string name="pulse_ambient_light_color">当收到通知时，使用</string>
     <string name="system_black_theme_title">使用纯黑主题</string>
     <string name="system_black_theme_summary">强制使用纯黑背景色</string>
+    <string name="laboratory_strict_standby_policy_title">严格的应用待机策略</string>
+    <string name="laboratory_strict_standby_policy_summary">这将对“电池用量”受限的应用启用划卡即停，并对其施加更加严格的应用待机限制。所有限制将在电源连接时也保持执行。</string>
 </resources>
