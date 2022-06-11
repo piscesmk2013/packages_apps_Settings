@@ -53,4 +53,6 @@
     <string name="app_volume">应用音量</string>
     <string name="three_finger_gesture">滑动截图</string>
     <string name="three_finger_gesture_summary">三指下滑截图</string>
+    <string name="laboratory_strict_standby_policy_title">严格的应用待机策略</string>
+    <string name="laboratory_strict_standby_policy_summary">这将对“电池用量”受限的应用启用划卡即停，并对其施加更加严格的应用待机限制。所有限制将在电源连接时也保持执行。</string>
 </resources>
