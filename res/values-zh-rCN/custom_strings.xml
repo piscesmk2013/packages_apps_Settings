@@ -46,5 +46,7 @@
     <string name="pickup_ambient_wake_gestures_summary">拾起唤醒时显示环境显示</string>
     <string name="tap_ambient_wake_gestures_title">显示环境显示</string>
     <string name="tap_ambient_wake_gestures_summary">单击唤醒时显示环境显示</string>
+    <string name="laboratory_strict_standby_policy_title">严格的应用待机策略</string>
+    <string name="laboratory_strict_standby_policy_summary">这将对“电池用量”受限的应用启用划卡即停，并对其施加更加严格的应用待机限制。所有限制将在电源连接时也保持执行。</string>
 
 </resources>
