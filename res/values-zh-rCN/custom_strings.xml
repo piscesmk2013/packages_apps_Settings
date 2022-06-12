@@ -263,4 +263,6 @@
     <string name="status_bar_brightness_control_summary">在状态栏上左右滑动以调整亮度</string>
     <string name="status_bar_title">状态栏</string>
     <string name="status_bar_system_icons_summary">控制状态栏图标显示</string>
+    <string name="qs_show_data_usage_title">数据使用情况</string>
+    <string name="qs_show_data_usage_summary">在 QS 页脚中显示移动网络/WiFi 数据使用情况</string>
 </resources>
