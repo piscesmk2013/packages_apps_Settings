@@ -288,4 +288,7 @@
     <string name="sleep_mode_display_text">睡眠模式允许您禁用某些服务以帮助在您睡觉时节省电量并静音您的手机</string>
     <string name="volume_separate_notification_title">分离铃声和通知</string>
     <string name="volume_separate_notification_summary">允许单独控制铃声和通知</string>
+    <string name="reset_auto_brightness_adjustment_title">重置亮度偏好</string>
+    <string name="reset_auto_brightness_adjustment_summary">这将重置系统的亮度偏好，并恢复为默认值</string>
+    <string name="reset_auto_brightness_adjustment_done">自动亮度偏好已重置</string>
 </resources>
