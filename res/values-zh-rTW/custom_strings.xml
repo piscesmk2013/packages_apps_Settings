@@ -99,4 +99,25 @@
     <string name="laboratory_strict_standby_policy_summary">這將對「電池用量」受限的應用程式啟用劃卡即停，並對其施加更加嚴格的應用程式待機限制。所有限制將在電源連接時也保持執行。</string>
     <string name="laboratory_force_background_freezer_title">墓碑後台</string>
     <string name="laboratory_force_background_freezer_summary">這將對「電池用量」受限的應用程式啟用墓碑後台。當應用程式被移至後台時將會被凍結，移到前台時重新解凍。這能夠在一定程度上減少電量消耗，但可能造成應用程式崩潰與後台應用程式未回應。</string>
+    <string name="custom_timeout_summary_never">永不</string>
+    <string name="custom_timeout_summary_15secs">15 秒</string>
+    <string name="custom_timeout_summary_30secs">30 秒</string>
+    <string name="custom_timeout_summary_1min">1 分鐘</string>
+    <string name="custom_timeout_summary_2mins">2 分鐘</string>
+    <string name="custom_timeout_summary_5mins">5 分鐘</string>
+    <string name="custom_timeout_summary_10mins">10 分鐘</string>
+    <string name="custom_timeout_summary_20mins">20 分鐘</string>
+    <string name="custom_timeout_summary_30mins">30 分鐘</string>
+    <string name="custom_timeout_summary_1hour">1 小時</string>
+    <string name="custom_timeout_summary_2hours">2 小時</string>
+    <string name="custom_timeout_summary_4hours">4 小時</string>
+    <string name="custom_timeout_summary_8hours">8 小時</string>
+    <string name="smart_pixels_summary">透過停用多餘的像素來節省電池電量</string>
+    <string name="smart_pixels_enable_title">啟用Smart Pixels</string>
+    <string name="smart_pixels_enable_summary">停用像素以降低電量消耗</string>
+    <string name="smart_pixels_on_power_save_title">在省電模式下自動啟用</string>
+    <string name="smart_pixels_on_power_save_summary">啟用省電模式時也啟用智慧像素</string>
+    <string name="smart_pixels_percent">停用的像素百分比</string>
+    <string name="smart_pixels_shift_title">螢幕烙印保護</string>
+    <string name="smart_pixels_shift_summary">透過不時移動像素的位置來防止使用 OLED 螢幕的裝置產生烙印</string>
 </resources>

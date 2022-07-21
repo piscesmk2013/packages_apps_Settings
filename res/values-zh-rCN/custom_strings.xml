@@ -99,4 +99,26 @@
     <string name="laboratory_strict_standby_policy_summary">这将对“电池用量”受限的应用启用划卡即停，并对其施加更加严格的应用待机限制。所有限制将在电源连接时也保持执行。</string>
     <string name="laboratory_force_background_freezer_title">墓碑后台</string>
     <string name="laboratory_force_background_freezer_summary">这将对“电池用量”受限的应用启用墓碑后台。当应用被移至后台时将会被冻结，移到前台时重新解冻。这能够在一定程度上减少电量消耗，但可能造成应用崩溃与后台应用未响应。</string>
+    <string name="custom_timeout_summary_never">从不</string>
+    <string name="custom_timeout_summary_15secs">15 秒</string>
+    <string name="custom_timeout_summary_30secs">30 秒</string>
+    <string name="custom_timeout_summary_1min">1 分钟</string>
+    <string name="custom_timeout_summary_2mins">2 分钟</string>
+    <string name="custom_timeout_summary_5mins">5 分钟</string>
+    <string name="custom_timeout_summary_10mins">10 分钟</string>
+    <string name="custom_timeout_summary_20mins">20 分钟</string>
+    <string name="custom_timeout_summary_30mins">30 分钟</string>
+    <string name="custom_timeout_summary_1hour">1 小时</string>
+    <string name="custom_timeout_summary_2hours">2 小时</string>
+    <string name="custom_timeout_summary_4hours">4 小时</string>
+    <string name="custom_timeout_summary_8hours">8 小时</string>
+    <string name="smart_pixels_warning_text">智能像素是一种省电功能。 根据您决定关闭多少像素，您可能会看到电池寿命有所改善。 请注意，在某些情况下，它可能会导致触摸屏上出现无响应区域</string>
+    <string name="smart_pixels_summary">通过关闭额外的像素来节省电量</string>
+    <string name="smart_pixels_enable_title">启用Smart Pixels</string>
+    <string name="smart_pixels_enable_summary">减少像素以降低功耗</string>
+    <string name="smart_pixels_on_power_save_title">省电模式时自动启用</string>
+    <string name="smart_pixels_on_power_save_summary">开启省电模式时自动启用智能像素</string>
+    <string name="smart_pixels_percent">禁用的像素数量</string>
+    <string name="smart_pixels_shift_title">烧屏保护</string>
+    <string name="smart_pixels_shift_summary">通过经常移动像素来防止 OLED 屏幕的设备发生烧屏</string>
 </resources>
