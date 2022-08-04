@@ -152,4 +152,9 @@
     <!-- In-call feedback -->
     <string name="incall_feeedback_vibrate_title">Vibrate to indicate call status</string>
 
+    <!-- Statusbar lyric -->
+    <string name="status_bar_lyric_title">Status bar lyric</string>
+    <string name="status_bar_lyric_summary">Show lyric in status bar (need app support)</string>
+    <string name="status_bar_show_lyric_title">Enable status bar lyric</string>
+
 </resources>

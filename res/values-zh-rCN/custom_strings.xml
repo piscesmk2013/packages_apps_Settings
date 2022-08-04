@@ -52,5 +52,8 @@
     <string name="increasing_ring_min_volume_title">初始音量</string>
     <string name="increasing_ring_ramp_up_time_title">渐强时间</string>
     <string name="incall_feeedback_vibrate_title">振动提示通话状态</string>
+    <string name="status_bar_lyric_title">状态栏歌词</string>
+    <string name="status_bar_lyric_summary">在状态栏上显示歌词(需要应用支持)</string>
+    <string name="status_bar_show_lyric_title">启用状态栏歌词</string>
 
 </resources>
