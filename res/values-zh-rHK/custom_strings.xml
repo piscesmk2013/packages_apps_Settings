@@ -87,5 +87,8 @@
     <string name="pattern_custom">自定義</string>
     <string name="custom_vibration_pattern_title">自定義模式</string>
     <string name="custom_vibration_pattern_summary">設置自定義振動模式</string>
+    <string name="status_bar_lyric_title">狀態欄歌詞</string>
+    <string name="status_bar_lyric_summary">在狀態欄上顯示歌詞(需要應用支持)</string>
+    <string name="status_bar_show_lyric_title">啟用狀態欄歌詞</string>
 
 </resources>
