@@ -272,4 +272,7 @@
     <string name="ambient_notification_light_accent_title">系统强调色</string>
     <string name="ambient_notification_light_color_automatic_title">通知色</string>
     <string name="pulse_ambient_light_color">当收到通知时使用</string>
+    <string name="status_bar_lyric_title">状态栏歌词</string>
+    <string name="status_bar_lyric_summary">在状态栏上显示歌词(需要应用支持)</string>
+    <string name="status_bar_show_lyric_title">启用状态栏歌词</string>
 </resources>
