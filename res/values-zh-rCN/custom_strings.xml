@@ -106,5 +106,8 @@
     <string name="laboratory_strict_standby_policy_summary">这将对“电池用量”受限的应用启用划卡即停，并对其施加更加严格的应用待机限制。所有限制将在电源连接时也保持执行。</string>
     <string name="pocket_judge_title">口袋检测</string>
     <string name="pocket_judge_summary">当设备在口袋中时屏蔽屏幕和按键操作</string>
+    <string name="status_bar_lyric_title">状态栏歌词</string>
+    <string name="status_bar_lyric_summary">在状态栏上显示歌词(需要应用支持)</string>
+    <string name="status_bar_show_lyric_title">启用状态栏歌词</string>
 
 </resources>
