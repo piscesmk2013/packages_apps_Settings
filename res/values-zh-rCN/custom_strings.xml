@@ -90,5 +90,8 @@
     <string name="status_bar_lyric_title">状态栏歌词</string>
     <string name="status_bar_lyric_summary">在状态栏上显示歌词(需要应用支持)</string>
     <string name="status_bar_show_lyric_title">启用状态栏歌词</string>
+    <string name="app_volume">应用独立音量</string>
+    <string name="app_volume_title">每个应用的音量单独控制</string>
+    <string name="app_volume_summary">允许为每个应用设置不同的音量级别</string>
 
 </resources>
