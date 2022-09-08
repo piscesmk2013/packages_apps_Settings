@@ -95,4 +95,6 @@
     <string name="double_tap_sleep_gesture_summary">輕觸兩下狀態列的任何位置以鎖定</string>
     <string name="double_tap_sleep_lockscreen_title">輕觸兩下以鎖定</string>
     <string name="double_tap_sleep_lockscreen_summary">輕觸兩下鎖定畫面上的任意位置以鎖定</string>
+    <string name="status_bar_brightness_control_title">狀態欄亮度調節</string>
+    <string name="status_bar_brightness_control_summary">在狀態欄上左右滑動以調整亮度</string>
 </resources>
