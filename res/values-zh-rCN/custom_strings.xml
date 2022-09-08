@@ -105,5 +105,6 @@
     <string name="reticker_colored_summary">使用通知应用主颜色替换 reTicker 背景颜色</string>
     <string name="reticker_landscape_only_title">仅横屏</string>
     <string name="reticker_landscape_only_summary">仅在横屏模式下启用 reTicker</string>
-
+    <string name="status_bar_brightness_control_title">状态栏亮度调节</string>
+    <string name="status_bar_brightness_control_summary">在状态栏上左右滑动以调整亮度</string>
 </resources>

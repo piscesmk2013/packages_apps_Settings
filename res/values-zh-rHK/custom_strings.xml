@@ -92,5 +92,6 @@
     <string name="status_bar_show_lyric_title">啟用狀態欄歌詞</string>
     <string name="reticker_landscape_only_title">僅橫屏</string>
     <string name="reticker_landscape_only_summary">僅在橫屏模式下啟用 reTicker</string>
-
+    <string name="status_bar_brightness_control_title">狀態欄亮度調節</string>
+    <string name="status_bar_brightness_control_summary">在狀態欄上左右滑動以調整亮度</string>
 </resources>
