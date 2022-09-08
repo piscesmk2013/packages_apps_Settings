@@ -38,5 +38,7 @@
     <string name="unlock_quick_unlock_control_summary">输入正确的 PIN/密码后自动解锁</string>
     <string name="auto_brightness_one_shot_title">单次自动调节亮度</string>
     <string name="auto_brightness_one_shot_summary">仅在点亮屏幕的那一刻调节一次亮度</string>
+    <string name="status_bar_brightness_control_title">状态栏亮度调节</string>
+    <string name="status_bar_brightness_control_summary">在状态栏上左右滑动以调整亮度</string>
 
 </resources>
