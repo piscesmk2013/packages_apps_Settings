@@ -61,4 +61,6 @@
     <string name="double_tap_sleep_gesture_summary">双击状态栏可使设备休眠</string>
     <string name="double_tap_sleep_lockscreen_title">双击锁屏界面休眠</string>
     <string name="double_tap_sleep_lockscreen_summary">在锁屏界面双击任意处使设备休眠</string>
+    <string name="status_bar_brightness_control_title">状态栏亮度调节</string>
+    <string name="status_bar_brightness_control_summary">在状态栏上左右滑动以调整亮度</string>
 </resources>
