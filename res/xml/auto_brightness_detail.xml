@@ -32,6 +32,13 @@
         settings:userRestriction="no_config_brightness"
         settings:controller="com.android.settings.display.AutoBrightnessDetailPreferenceController"/>
 
+    <!-- Birghtness control -->
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="status_bar_brightness_control"
+        android:title="@string/status_bar_brightness_control_title"
+        android:summary="@string/status_bar_brightness_control_summary"
+        android:defaultValue="false" />
+
     <com.android.settingslib.RestrictedSwitchPreference
         android:key="auto_brightness_one_shot"
         android:title="@string/auto_brightness_one_shot_title"
