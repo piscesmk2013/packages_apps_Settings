@@ -5,4 +5,8 @@
     <string name="designed_battery_capacity">電池設計容量</string>
     <string name="optimized_charge_title">優化充電</string>
     <string name="optimized_charge_summary">將充電限制在75%-80%以延長電池壽命</string>
+    <string name="min_refresh_rate_title">最低更新率</string>
+    <string name="max_refresh_rate_title">最高螢幕刷新率</string>
+    <string name="ambient_display_screen_off_udfps_title">在指紋感應器上長按以解鎖裝置</string>
+    <string name="ambient_display_screen_off_udfps_summary">要喚醒您的螢幕並解鎖，請長按螢幕下指紋感應器。</string>
 </resources>
