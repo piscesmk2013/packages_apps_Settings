@@ -97,5 +97,9 @@
     <string name="double_tap_ambient_wake_gestures_summary">双击唤醒时显示环境显示</string>
     <string name="pickup_ambient_wake_gestures_title">显示环境显示</string>
     <string name="pickup_ambient_wake_gestures_summary">拾起唤醒时显示环境显示</string>
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">用重新设计的tickers版本替换您的通知，\n苗条且不像标准通知那样具有侵入性</string>
+    <string name="reticker_colored_title">使用应用程序色彩背景</string>
+    <string name="reticker_colored_summary">使用通知应用主颜色替换 reTicker 背景颜色</string>
 
 </resources>
