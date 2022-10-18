@@ -116,4 +116,6 @@
     <string name="other_controls_title">導航欄</string>
     <string name="fullscreen_gestures_title">全屏手勢</string>
     <string name="fullscreen_gestures_summary">隱藏導航欄白條和底部填充</string>
+    <string name="custom_theme_title">使用自定義主題</string>
+    <string name="custom_theme_summary">使用自定義背景顏色</string>
 </resources>

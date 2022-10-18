@@ -139,4 +139,6 @@
     <string name="other_controls_title">导航栏</string>
     <string name="fullscreen_gestures_title">全屏手势</string>
     <string name="fullscreen_gestures_summary">隐藏导航栏白条和底部填充</string>
+    <string name="custom_theme_title">使用自定义主题</string>
+    <string name="custom_theme_summary">使用自定义背景颜色</string>
 </resources>
