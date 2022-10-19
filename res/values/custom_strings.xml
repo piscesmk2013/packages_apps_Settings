@@ -208,4 +208,8 @@
     <string name="custom_vibration_pattern_title">Custom pattern</string>
     <string name="custom_vibration_pattern_summary">Set a custom vibration pattern</string>
 
+    <!-- Statusbar settings -->
+    <string name="status_bar_settings_title">Status bar</string>
+    <string name="status_bar_settings_summary">Customize the status bar</string>
+
 </resources>
