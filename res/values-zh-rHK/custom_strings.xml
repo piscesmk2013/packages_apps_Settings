@@ -43,4 +43,6 @@
     <string name="pattern_custom">自定義</string>
     <string name="custom_vibration_pattern_title">自定義模式</string>
     <string name="custom_vibration_pattern_summary">設置自定義振動模式</string>
+    <string name="status_bar_settings_title">狀態欄</string>
+    <string name="status_bar_settings_summary">自定義狀態欄</string>
 </resources>
