@@ -107,4 +107,8 @@
     <string name="status_bar_settings_summary">自定義狀態欄</string>
     <string name="statusbar_items_title">狀態欄圖標</string>
     <string name="statusbar_items_summary">自定義狀態欄中顯示的圖標</string>
+    <string name="status_bar_clock_position_title">時鐘位置</string>
+    <string name="status_bar_clock_position_center">中心</string>
+    <string name="status_bar_clock_position_left">居左</string>
+    <string name="status_bar_clock_position_right">居右</string>
 </resources>
