@@ -105,4 +105,6 @@
     <string name="custom_vibration_pattern_summary">設置自定義振動模式</string>
     <string name="status_bar_settings_title">狀態欄</string>
     <string name="status_bar_settings_summary">自定義狀態欄</string>
+    <string name="statusbar_items_title">狀態欄圖標</string>
+    <string name="statusbar_items_summary">自定義狀態欄中顯示的圖標</string>
 </resources>

@@ -128,4 +128,6 @@
     <string name="custom_vibration_pattern_summary">设置自定义振动模式</string>
     <string name="status_bar_settings_title">状态栏</string>
     <string name="status_bar_settings_summary">自定义状态栏</string>
+    <string name="statusbar_items_title">状态栏图标</string>
+    <string name="statusbar_items_summary">自定义状态栏中显示的图标</string>
 </resources>
