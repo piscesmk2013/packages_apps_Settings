@@ -79,4 +79,6 @@
     <string name="status_bar_clock_position_center">中心</string>
     <string name="status_bar_clock_position_left">居左</string>
     <string name="status_bar_clock_position_right">居右</string>
+    <string name="status_bar_clock_show_seconds_title">时钟显秒</string>
+    <string name="status_bar_clock_show_seconds_desc">状态栏时钟显示时，分，秒</string>
 </resources>
