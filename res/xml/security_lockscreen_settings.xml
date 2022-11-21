@@ -132,6 +132,13 @@
             settings:searchable="false"
             settings:controller="com.android.settings.gestures.PickupGesturePreferenceController" />
 
+        <!-- UDFPS settings -->
+        <Preference
+            android:key="udfps_settings"
+            android:title="@string/udfps_settings_title"
+            android:summary="@string/udfps_settings_summary"
+            android:fragment="com.android.settings.custom.udfps.UdfpsSettings" />
+
         <!-- Horizon Light Settings -->
         <Preference
             android:key="pulse_ambient_light_settings"
