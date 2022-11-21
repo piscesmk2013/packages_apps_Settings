@@ -244,4 +244,12 @@
     <string name="system_black_theme_summary">强制使用纯黑背景色</string>
     <string name="laboratory_strict_standby_policy_title">严格的应用待机策略</string>
     <string name="laboratory_strict_standby_policy_summary">这将对“电池用量”受限的应用启用划卡即停，并对其施加更加严格的应用待机限制。所有限制将在电源连接时也保持执行。</string>
+    <string name="enable">启用</string>
+    <string name="disable">禁用</string>
+    <string name="udfps_settings_title">UDFPS 自定义</string>
+    <string name="udfps_settings_summary">自定义屏幕上的指纹图案及动画</string>
+    <string name="udfps_icon_picker_title">UDFPS 图标选择器</string>
+    <string name="udfps_icon_picker_summary">选择你喜欢的指纹图标</string>
+    <string name="udfps_recog_animation_effect_title">UDFPS 动画效果</string>
+    <string name="udfps_recog_animation_effect_summary">选择你喜欢的指纹解锁动画</string>
 </resources>
