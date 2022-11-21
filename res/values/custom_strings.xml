@@ -213,4 +213,14 @@
     <string name="sleep_mode_extra_dark_toggle_summary">Enable Extra dark on when Sleep mode is turned on</string>
     <string name="sleep_mode_display_text">Sleep mode allows you to disable certain services to help save battery and silence your phone while you sleep.</string>
 
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+
+    <!-- UDFPS settings -->
+    <string name="udfps_settings_title">UDFPS customization</string>
+    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
+    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
+    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
+    <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
+    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
 </resources>
