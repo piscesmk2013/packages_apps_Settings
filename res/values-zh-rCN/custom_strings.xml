@@ -155,5 +155,9 @@
     <string name="udfps_icon_picker_summary">选择你喜欢的指纹图标</string>
     <string name="udfps_recog_animation_effect_title">UDFPS 动画效果</string>
     <string name="udfps_recog_animation_effect_summary">选择你喜欢的指纹解锁动画</string>
+    <string name="custom_fp_icon_title">自定义 UDFPS 图标</string>
+    <string name="custom_fp_icon_summary">启用自定义选择的 UDFPS 图标</string>
+    <string name="custom_fp_select_title">选择自定义 UDFPS 图标</string>
+    <string name="custom_fp_select_summary">从图库中选择一张图片作为 UDFPS 图标</string>
 
 </resources>
