@@ -40,5 +40,9 @@
     <string name="auto_brightness_one_shot_summary">仅在点亮屏幕的那一刻调节一次亮度</string>
     <string name="status_bar_brightness_control_title">状态栏亮度调节</string>
     <string name="status_bar_brightness_control_summary">在状态栏上左右滑动以调整亮度</string>
+    <string name="double_tap_ambient_wake_gestures_title">显示环境显示</string>
+    <string name="double_tap_ambient_wake_gestures_summary">双击唤醒时显示环境显示</string>
+    <string name="pickup_ambient_wake_gestures_title">显示环境显示</string>
+    <string name="pickup_ambient_wake_gestures_summary">拾起唤醒时显示环境显示</string>
 
 </resources>

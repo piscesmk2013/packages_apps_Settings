@@ -128,4 +128,10 @@
     <string name="status_bar_brightness_control_title">Brightness control</string>
     <string name="status_bar_brightness_control_summary">Adjust brightness by sliding across the status bar</string>
 
+    <!-- Ambient Wake gesture -->
+    <string name="double_tap_ambient_wake_gestures_title">Show Ambient</string>
+    <string name="double_tap_ambient_wake_gestures_summary">Wake up the ambient display when double tap</string>
+    <string name="pickup_ambient_wake_gestures_title">Show Ambient</string>
+    <string name="pickup_ambient_wake_gestures_summary">Wake up ambient display when picked up</string>
+
 </resources>
