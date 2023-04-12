@@ -93,5 +93,9 @@
     <string name="app_volume">应用独立音量</string>
     <string name="app_volume_title">每个应用的音量单独控制</string>
     <string name="app_volume_summary">允许为每个应用设置不同的音量级别</string>
+    <string name="double_tap_ambient_wake_gestures_title">显示环境显示</string>
+    <string name="double_tap_ambient_wake_gestures_summary">双击唤醒时显示环境显示</string>
+    <string name="pickup_ambient_wake_gestures_title">显示环境显示</string>
+    <string name="pickup_ambient_wake_gestures_summary">拾起唤醒时显示环境显示</string>
 
 </resources>

@@ -34,4 +34,11 @@
         app:controller="com.android.settings.gestures.DoubleTapScreenPreferenceController"
         app:allowDividerAbove="true" />
 
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="double_tap_ambient_wake_gestures"
+        android:title="@string/double_tap_ambient_wake_gestures_title"
+        android:summary="@string/double_tap_ambient_wake_gestures_summary"
+        android:defaultValue="false"
+        android:dependency="gesture_double_tap_screen" />
+
 </PreferenceScreen>
