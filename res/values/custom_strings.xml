@@ -237,4 +237,10 @@
     <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
     <string name="theme_customization_icon_shape_title">Icon shape</string>
     <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+
+    <!-- Ambient Wake gesture -->
+    <string name="double_tap_ambient_wake_gestures_title">Show Ambient</string>
+    <string name="double_tap_ambient_wake_gestures_summary">Wake up the ambient display when double tap</string>
+    <string name="pickup_ambient_wake_gestures_title">Show Ambient</string>
+    <string name="pickup_ambient_wake_gestures_summary">Wake up ambient display when picked up</string>
 </resources>

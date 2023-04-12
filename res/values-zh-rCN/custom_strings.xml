@@ -159,5 +159,9 @@
     <string name="custom_fp_icon_summary">启用自定义选择的 UDFPS 图标</string>
     <string name="custom_fp_select_title">选择自定义 UDFPS 图标</string>
     <string name="custom_fp_select_summary">从图库中选择一张图片作为 UDFPS 图标</string>
+    <string name="double_tap_ambient_wake_gestures_title">显示环境显示</string>
+    <string name="double_tap_ambient_wake_gestures_summary">双击唤醒时显示环境显示</string>
+    <string name="pickup_ambient_wake_gestures_title">显示环境显示</string>
+    <string name="pickup_ambient_wake_gestures_summary">拾起唤醒时显示环境显示</string>
 
 </resources>
