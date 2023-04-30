@@ -275,4 +275,7 @@
     <string name="status_bar_lyric_title">状态栏歌词</string>
     <string name="status_bar_lyric_summary">在状态栏上显示歌词(需要应用支持)</string>
     <string name="status_bar_show_lyric_title">启用状态栏歌词</string>
+    <string name="status_bar_lyric_options_title">选项</string>
+    <string name="disguise_props_for_music_app_title">对音乐应用伪装</string>
+    <string name="disguise_props_for_music_app_summary">通过设备伪装开启某些音乐应用中状态栏歌词。 切换此徐选项后，您必须重新启动应用程序才能使更改生效。</string>
 </resources>
