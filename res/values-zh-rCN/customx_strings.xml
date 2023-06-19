@@ -286,4 +286,6 @@
     <string name="sleep_mode_extra_dark_toggle_title">开启极暗</string>
     <string name="sleep_mode_extra_dark_toggle_summary">开启睡眠模式时启用极暗</string>
     <string name="sleep_mode_display_text">睡眠模式允许您禁用某些服务以帮助在您睡觉时节省电量并静音您的手机</string>
+    <string name="volume_separate_notification_title">分离铃声和通知</string>
+    <string name="volume_separate_notification_summary">允许单独控制铃声和通知</string>
 </resources>

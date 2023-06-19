@@ -406,4 +406,8 @@
     <string name="sleep_mode_extra_dark_toggle_title">Enable Extra dark</string>
     <string name="sleep_mode_extra_dark_toggle_summary">Enable Extra dark on when Sleep mode is turned on</string>
     <string name="sleep_mode_display_text">Sleep mode allows you to disable certain services to help save battery and silence your phone while you sleep.</string>
+
+    <!-- Separate ring & notification toggle -->
+    <string name="volume_separate_notification_title">Separated Ring and Notification</string>
+    <string name="volume_separate_notification_summary">Allow controlling each stream individually</string>
 </resources>
