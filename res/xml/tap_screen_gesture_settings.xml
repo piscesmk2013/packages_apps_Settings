@@ -33,4 +33,11 @@
         app:keywords="@string/keywords_gesture"
         app:controller="com.android.settings.gestures.TapScreenGesturePreferenceController" />
 
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="tap_ambient_wake_gestures"
+        android:title="@string/tap_ambient_wake_gestures_title"
+        android:summary="@string/tap_ambient_wake_gestures_summary"
+        android:defaultValue="false"
+        android:dependency="gesture_tap" />
+
 </PreferenceScreen>
