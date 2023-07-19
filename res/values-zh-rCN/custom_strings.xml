@@ -44,5 +44,7 @@
     <string name="double_tap_ambient_wake_gestures_summary">双击唤醒时显示环境显示</string>
     <string name="pickup_ambient_wake_gestures_title">显示环境显示</string>
     <string name="pickup_ambient_wake_gestures_summary">拾起唤醒时显示环境显示</string>
+    <string name="tap_ambient_wake_gestures_title">显示环境显示</string>
+    <string name="tap_ambient_wake_gestures_summary">单击唤醒时显示环境显示</string>
 
 </resources>

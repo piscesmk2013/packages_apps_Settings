@@ -133,5 +133,7 @@
     <string name="double_tap_ambient_wake_gestures_summary">Wake up the ambient display when double tap</string>
     <string name="pickup_ambient_wake_gestures_title">Show Ambient</string>
     <string name="pickup_ambient_wake_gestures_summary">Wake up ambient display when picked up</string>
+    <string name="tap_ambient_wake_gestures_title">Show Ambient</string>
+    <string name="tap_ambient_wake_gestures_summary">Wake up the ambient display when single tap</string>
 
 </resources>
