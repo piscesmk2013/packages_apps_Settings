@@ -74,6 +74,13 @@
             android:persistent="false"
             android:title="@string/accessibility_text_reading_options_title"
             settings:controller="com.android.settings.accessibility.TextReadingFragmentForDisplaySettingsController"/>
+
+        <!-- Network Traffic Monitor -->
+        <Preference
+            android:key="aosp_settings_net_traffic"
+            android:title="@string/network_traffic_state_title"
+            android:fragment="com.android.settings.custom.traffic.NetTrafficMonSettings" />
+
     </PreferenceCategory>
 
     <PreferenceCategory
